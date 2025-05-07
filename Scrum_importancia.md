@@ -110,4 +110,3 @@ En un mundo cada vez más dinámico y digital, **Scrum seguirá siendo una herra
 
 --- 
 
-📸 *Nota: En breve se agregarán imágenes y diagramas para complementar esta información.*
