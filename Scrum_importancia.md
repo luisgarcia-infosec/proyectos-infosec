@@ -10,9 +10,16 @@ Scrum es uno de los **marcos de trabajo ágiles más utilizados en el mundo**. F
 
 En este artículo quiero explicar **por qué Scrum es fundamental para cualquier trabajo en equipo**, cómo potencia la eficiencia y colaboración, y por qué se ha convertido en la metodología ágil más popular.
 
+![Importancia global de Scrum](WhatsApp%20Image%202025-05-07%20at%2001.00.12.jpeg)
+
 ---
 
 ## 👨‍💻 Scrum y su importancia en el desarrollo de software
+
+Scrum es uno de los **marcos de trabajo ágiles más utilizados en el mundo**. Fue desarrollado por **Ken Schwaber y Jeff Sutherland** en la década de 1990 y está basado en los principios del **Manifiesto Ágil (2001)**.
+
+![Historia de Scrum](WhatsApp%20Image%202025-05-07%20at%2001.00.10.jpeg)
+
 
 ### 🔑 ¿Por qué nació Scrum?
 
@@ -40,6 +47,8 @@ Scrum introduce:
 ### 📈 Ejemplo:
 Un equipo trabaja en una app móvil y define un Sprint de 2 semanas para implementar la función de login. Al finalizar, entregan un módulo funcional y ajustan el plan en función del feedback del usuario.
 
+![Ejemplo de Sprint en desarrollo](WhatsApp%20Image%202025-05-07%20at%2001.00.10%20(1).jpeg)
+
 ---
 
 ## 🔐 Scrum en ciberseguridad: una herramienta clave
@@ -64,6 +73,8 @@ Esto asegura un avance rápido y organizado, con feedback constante.
 ## 🏥 🏗️ Scrum más allá de IT: casos reales
 
 Scrum **no es exclusivo del mundo IT**. Cada vez más organizaciones lo aplican en sectores impensados:
+
+![Scrum aplicado en salud y construcción](WhatsApp%20Image%202025-05-07%20at%2001.00.07.jpeg)
 
 ### 🏥 Salud:
 - **Hospitales:** gestión de proyectos como la digitalización de historiales clínicos o la optimización de procesos internos.
@@ -95,6 +106,8 @@ Scrum demostró que **un marco simple pero bien aplicado puede transformar la ma
 
 En un mundo cada vez más dinámico y digital, **Scrum seguirá siendo una herramienta clave para cualquier organización que valore el trabajo colaborativo y la mejora continua.**
 
----
+![Scrum resumen final](WhatsApp%20Image%202025-05-07%20at%2001.00.11.jpeg)
+
+--- 
 
 📸 *Nota: En breve se agregarán imágenes y diagramas para complementar esta información.*
